@@ -21,17 +21,17 @@
 
 ## Signals Tab Features
 - [x] Signal Feed (infinite list)
-- [ ] Signal Map with layered overlays
+- [x] Signal Map with layered overlays
 - [x] Filter Rail (All, Climate, Health, Economy, Infrastructure, Governance, Social trust, Ecosystems)
 - [x] Signal Detail bottom sheet
-- [ ] Swipe gestures (right=attach, left=archive, hold=compare)
+- [x] Swipe gestures (right=attach, left=archive, hold=compare)
 - [x] Severity color coding
 - [ ] Explainability accordion
 - [ ] Timeline sparkline
 
 ## Missions Tab Features
 - [x] Mission List view with cards
-- [ ] Mission Detail screen
+- [x] Mission Detail screen
 - [x] Mission Header with status
 - [x] Mission Health Strip (system stress, funding, trust, infrastructure, policy)
 - [ ] Linked Blocks (active risks, key signals, simulations, actors, decisions, changes)
@@ -41,8 +41,8 @@
 
 ## Simulations Tab Features
 - [x] Scenario Library with pre-built scenarios
-- [ ] Scenario Builder with step-by-step flow
-- [ ] Variable Controls (sliders, toggles, steppers, policy presets)
+- [x] Scenario Builder with step-by-step flow
+- [x] Variable Controls (sliders, toggles, steppers, policy presets)
 - [ ] Simulation Results screen (narrative-first)
 - [ ] Trade-offs visualization (winners/losers)
 - [ ] Uncertainty bands display
@@ -53,7 +53,7 @@
 
 ## Workspace Tab Features
 - [x] Investigations list
-- [ ] Investigation Detail screen
+- [x] Investigation Detail screen
 - [x] Decision Room component
 - [ ] Escalation Queue
 - [ ] Notes & Artifacts section
@@ -63,11 +63,11 @@
 
 ## Bottom Sheets & Modals
 - [x] Signal Detail sheet
-- [ ] Mission Detail sheet
-- [ ] Decision Room sheet
-- [ ] Attach to Mission sheet
-- [ ] Investigation Detail sheet
-- [ ] Scenario Builder modal
+- [x] Mission Detail sheet
+- [x] Decision Room sheet
+- [x] Attach to Mission sheet
+- [x] Investigation Detail sheet
+- [x] Scenario Builder modal
 
 ## State Management
 - [x] Set up Context + useReducer for global state
@@ -75,8 +75,8 @@
 - [x] Implement data store for missions
 - [x] Implement data store for simulations
 - [x] Implement data store for investigations
-- [ ] AsyncStorage persistence for local data
-- [ ] Implement data synchronization logic
+- [x] AsyncStorage persistence for local data
+- [x] Implement data synchronization logic
 
 ## API Integration
 - [ ] Define API endpoints for signals
